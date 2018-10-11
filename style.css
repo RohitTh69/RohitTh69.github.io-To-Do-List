@@ -1,0 +1,35 @@
+body{
+	background-image: url("todo.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	line-height: 40px;
+
+}
+
+#addItem{
+	margin: 90px auto;
+	margin-bottom: 80px;
+	width: 60%;
+	padding: 5px 40px;
+	padding-bottom: 10px;
+	border-radius: 12px;
+	position: center center;
+}
+
+#listItem{
+	margin: 20px auto;
+	width: 60%;
+	padding: 10px;
+	border-radius: 12px;
+	font-family: cursive;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+#userInput, #ADD{
+	margin-right: 40px;
+	margin-left: 40px;
+	border-radius: 12px;
+}
