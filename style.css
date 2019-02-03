@@ -4,7 +4,9 @@
 
 body{
 	
-	background-image: url(todo.jpg) no-repeat center ;
+	margin-top: 5%;
+	width: 900px;
+	background-image: url(todo.jpg);
 	background-size: cover;
 	line-height: 40px;
 
@@ -46,6 +48,6 @@ body{
 	border-radius: 12px;
 }
 
-input{
+input, #delete{
 	outline: none;
 }
